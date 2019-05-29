@@ -67,6 +67,9 @@ Esta versión tiene un precio simbólico para apoyar el tiempo de desarrollo y a
 
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.jeluchu.movimadridlite)
 
+[![](http://img.youtube.com/vi/Hz-7GD3nsQM/0.jpg)](http://www.youtube.com/watch?v=Hz-7GD3nsQM "¡MoviMadrid ya disponible!")
+
+
 ## Tiempos de desarrollo
 Durante el primer mes del proyecto comenzamos a organizar las tareas que realizaría cada miembro del equipo y a estimar que partes de la aplicación llevarían más trabajo.
 
