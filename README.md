@@ -74,5 +74,7 @@ A lo largo del desarrollo fuimos encontrando errores o problemas que se fueron s
 
 de datos para poder comparar la información recogida desde los distintos puntos que recogen la información de la calidad del aire en Madrid.
 
+![Imagen de tiempo desarrollo](https://github.com/Jeluchu/MoviMadrid/blob/master/images/time.png)
+
 # INCIDENCIAS
 Si tienes cualquier problema ejecutando la aplicación no dudes en crear una **"Issue"** para que podamos revisar tu incidencia o consulta y corregir los problemas para futuras actualizaciones de la aplicación. Si quieres hablar con nosotros de una forma más personal no dudes en ponerte en contacto por e-mail a: infomovimadrid@gmail.com
